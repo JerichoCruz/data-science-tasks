@@ -6,10 +6,9 @@
 - MilitaryAircraft: This project will go through the stages of a data project:
   - Business Request & User Stories
   - Data Cleansing & Transformation (Python)
-  - Data Model (In Progress)
-  - Dashboard (In Progress)
-
-
+  - Data Model (PowerBI)
+  - Dashboard (PowerBI)
+  - Analysis Results
 
 ## Acknowledgments
 
