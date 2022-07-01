@@ -15,3 +15,5 @@
 Inspiration, code snippets, etc.
 * [Keith Galli](https://github.com/KeithGalli)
 * [Ali Ahmad](https://www.youtube.com/c/AliAhmad1987)
+* [Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw/featured)
+* [How to Power BI with Bas](https://www.youtube.com/c/HowtoPowerBI)
