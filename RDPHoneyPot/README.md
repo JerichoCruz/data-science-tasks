@@ -5,8 +5,7 @@
 </b>
 <br />
 <br />
-The script is used in this lab where I setup Microsoft Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot for 24 hours.
-We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to look up the attackers Geolocation information and plot it on PowerBI!
+The script is used in this lab where I setup Microsoft Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot for 24 hours. I take it a step further and load the custom logs into Power BI to create my own Security Information and Event Management (SIEM). We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to look up the attackers Geolocation information and plot it on PowerBI!
 <br />
 <br />
 
@@ -40,12 +39,12 @@ We will observe live attacks (RDP Brute Force) from all around the world. I will
 1. Create Windows 10 Virtual Machine on Azure
 2. Allow all in Firewall
 3. Create Log Analytics Workspace (LAW)
-4. Enable gathering VM logs in Security Center
+4. Enable gathering VM logs in Microsoft Defender for Cloud
 5. Connect Log Analytics to VM
 6. Setup Microsoft Sentinel
 7. Log into VM with Remote Desktop (Fail 1 logon for Event Viewer)
 8. Observe Event Viewer Logs in VM
-9.  Turn of Windows Firewall on VM
+9.  Turn off Windows Firewall on VM
 10. Download PowerShell Script
 11. Get Geolocation.io API Key
 12. Run Script To get Geo Data from attackers
