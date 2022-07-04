@@ -69,11 +69,11 @@ The script is used in this lab where I setup Microsoft Sentinel (SIEM) and conne
 
 <h2>Key Takeaways</h2>
 
-- As soon as anything gets put anything on the internet, people are going to try to get into it. They don't care if you're a big business or an individual.
+- As soon as anything gets put on the internet, people are going to try to get into it. They don't care if you're a big business or an individual.
 - You are a target of opportunity to everyone
 - Try to avoid common usernames: administrator, admin, user, etc
   - Disable if possible
-- Use multifactor authentication! If not available, use strong passwords/passphrases
+- Use multifactor authentication! If MFA is not available, use strong passwords/passphrases
 
 <h2>Acknowledgements</h2>
 
