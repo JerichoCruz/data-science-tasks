@@ -9,6 +9,7 @@
   - Data Model (PowerBI)
   - Dashboard (PowerBI)
   - Analysis Results
+- Failed Remote Desktop Protocol (RDP) with IP Geolocation: This is a lab where I setup a honey pot for 24 hours using multiple Azure resources, create custom logs using PowerShell and develop my own SIEM on Power BI to display Failed RDP Brute Force attacks.
 
 ## Acknowledgments
 
@@ -17,3 +18,4 @@ Inspiration, code snippets, etc.
 * [Ali Ahmad](https://www.youtube.com/c/AliAhmad1987)
 * [Medallion Data Science](https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw/featured)
 * [How to Power BI with Bas](https://www.youtube.com/c/HowtoPowerBI)
+* [Josh Makador](https://www.youtube.com/c/JoshMadakor)
