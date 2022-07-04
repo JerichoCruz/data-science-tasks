@@ -1,4 +1,4 @@
-<h1>Failed Remote Desktop Protocol (RDP) with IP Geolocation Information</h1>
+<h1>Remote Desktop Protocol (RDP) Brute Force Attack Honeypot with IP Geolocation</h1>
 
 <h2>Description</h2>
 <b>The <a href="https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1">Powershell script</a> in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
