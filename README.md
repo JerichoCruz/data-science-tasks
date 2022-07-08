@@ -9,7 +9,8 @@
   - Data Model (PowerBI)
   - Dashboard (PowerBI)
   - Analysis Results
-- RDPHoneyPot: This is a lab where I setup a honey pot for 24 hours using multiple Azure resources, create custom logs using PowerShell and develop my own SIEM on Power BI to display Failed RDP Brute Force attacks from across the world.
+- RDPHoneyPot: This is a project where I setup a honey pot for 24 hours using multiple Azure resources, create custom logs using PowerShell and develop my own SIEM on Power BI to display Failed RDP Brute Force attacks from across the world.
+- ReviewerAnalysis: I use pandasql to query pandas dataframes using SQL syntax without installing or connecting to any SQL server.
 
 ## Acknowledgments
 
